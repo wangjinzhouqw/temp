@@ -1,0 +1,1841 @@
+flv header :: 
+signature : 0x 46 4C 56
+version : 0x 1
+flags : 0x 5
+header size : 0x 9
+ceq	|type	|datasize	|timestamp	|
+0	|script	|551	|0	|
+amf1:	|type:2	|len:10	|onMetaData	|amf2:	|type:8	len:25	|
+[0][duration:34.158000]
+[1][width:512.000000]
+[2][height:288.000000]
+[3][videodatarate:179.284180]
+[4][framerate:1000.000000]
+[5][videocodecid:7.000000]
+[6][audiodatarate:0.000000]
+[7][audiosamplerate:44100.000000]
+[8][audiosamplesize:16.000000]
+[9][stereo:stereo]
+[10][audiocodecid:2.000000]
+[11][metadatacreator:iku]
+[12][lastkeyframetimestamp:0.000000]
+1	|video	|45	|0	|keyframe (for AVC, a seekable frame)	|AVC	|
+2	|audio	|418	|0	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+3	|video	|2463	|25	|keyframe (for AVC, a seekable frame)	|AVC	|
+4	|audio	|419	|26	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+5	|audio	|419	|52	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+6	|audio	|419	|78	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+7	|video	|4313	|92	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+8	|audio	|419	|104	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+9	|audio	|419	|131	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+10	|audio	|419	|157	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+11	|video	|157	|158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+12	|audio	|419	|183	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+13	|audio	|419	|209	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+14	|video	|361	|225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+15	|audio	|419	|235	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+16	|audio	|419	|261	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+17	|audio	|419	|287	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+18	|video	|657	|292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+19	|audio	|419	|313	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+20	|audio	|419	|340	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+21	|video	|3797	|358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+22	|audio	|419	|366	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+23	|audio	|419	|392	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+24	|audio	|419	|418	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+25	|video	|5677	|425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+26	|audio	|419	|444	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+27	|audio	|419	|470	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+28	|video	|2762	|492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+29	|audio	|419	|496	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+30	|audio	|419	|522	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+31	|audio	|419	|549	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+32	|video	|2761	|558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+33	|audio	|419	|575	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+34	|audio	|419	|601	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+35	|video	|1309	|625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+36	|audio	|419	|627	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+37	|audio	|418	|653	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+38	|audio	|419	|679	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+39	|video	|1732	|692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+40	|audio	|419	|705	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+41	|audio	|419	|731	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+42	|audio	|419	|757	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+43	|video	|573	|758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+44	|audio	|419	|784	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+45	|audio	|419	|810	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+46	|video	|2366	|825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+47	|audio	|419	|836	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+48	|audio	|419	|862	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+49	|audio	|419	|888	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+50	|video	|377	|892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+51	|audio	|419	|914	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+52	|audio	|419	|940	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+53	|video	|455	|958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+54	|audio	|419	|966	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+55	|audio	|419	|993	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+56	|audio	|419	|1019	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+57	|video	|4745	|1025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+58	|audio	|419	|1045	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+59	|audio	|419	|1071	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+60	|video	|521	|1092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+61	|audio	|419	|1097	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+62	|audio	|419	|1123	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+63	|audio	|419	|1149	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+64	|video	|821	|1158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+65	|audio	|419	|1175	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+66	|audio	|419	|1202	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+67	|video	|2340	|1225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+68	|audio	|419	|1228	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+69	|audio	|419	|1254	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+70	|audio	|418	|1280	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+71	|video	|1049	|1292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+72	|audio	|419	|1306	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+73	|audio	|419	|1332	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+74	|video	|776	|1358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+75	|audio	|419	|1358	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+76	|audio	|419	|1384	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+77	|audio	|419	|1411	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+78	|video	|4672	|1425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+79	|audio	|419	|1437	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+80	|audio	|419	|1463	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+81	|audio	|419	|1489	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+82	|video	|1008	|1492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+83	|audio	|419	|1515	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+84	|audio	|419	|1541	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+85	|video	|1215	|1558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+86	|audio	|419	|1567	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+87	|audio	|419	|1593	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+88	|audio	|419	|1620	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+89	|video	|3016	|1625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+90	|audio	|419	|1646	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+91	|audio	|419	|1672	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+92	|video	|1273	|1692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+93	|audio	|419	|1698	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+94	|audio	|419	|1724	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+95	|audio	|419	|1750	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+96	|video	|1131	|1758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+97	|audio	|419	|1776	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+98	|audio	|419	|1802	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+99	|video	|4052	|1825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+100	|audio	|419	|1829	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+101	|audio	|419	|1855	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+102	|audio	|419	|1881	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+103	|video	|1858	|1892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+104	|audio	|419	|1907	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+105	|audio	|418	|1933	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+106	|video	|1790	|1958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+107	|audio	|419	|1959	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+108	|audio	|419	|1985	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+109	|audio	|419	|2011	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+110	|video	|2046	|2025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+111	|audio	|419	|2037	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+112	|audio	|419	|2064	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+113	|audio	|419	|2090	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+114	|video	|1837	|2092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+115	|audio	|419	|2116	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+116	|audio	|419	|2142	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+117	|video	|1084	|2158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+118	|audio	|419	|2168	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+119	|audio	|419	|2194	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+120	|audio	|419	|2220	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+121	|video	|479	|2225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+122	|audio	|419	|2246	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+123	|audio	|419	|2273	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+124	|video	|883	|2292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+125	|audio	|419	|2299	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+126	|audio	|419	|2325	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+127	|audio	|419	|2351	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+128	|video	|690	|2358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+129	|audio	|419	|2377	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+130	|audio	|419	|2403	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+131	|video	|395	|2425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+132	|audio	|419	|2429	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+133	|audio	|419	|2455	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+134	|audio	|419	|2482	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+135	|video	|230	|2492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+136	|audio	|419	|2508	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+137	|audio	|419	|2534	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+138	|video	|1725	|2558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+139	|audio	|418	|2560	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+140	|audio	|419	|2586	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+141	|audio	|419	|2612	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+142	|video	|342	|2625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+143	|audio	|419	|2638	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+144	|audio	|419	|2664	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+145	|audio	|419	|2691	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+146	|video	|593	|2692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+147	|audio	|419	|2717	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+148	|audio	|419	|2743	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+149	|video	|607	|2758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+150	|audio	|419	|2769	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+151	|audio	|419	|2795	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+152	|audio	|419	|2821	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+153	|video	|3258	|2825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+154	|audio	|419	|2847	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+155	|audio	|419	|2873	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+156	|video	|1086	|2892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+157	|audio	|419	|2900	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+158	|audio	|419	|2926	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+159	|audio	|419	|2952	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+160	|video	|1417	|2958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+161	|audio	|419	|2978	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+162	|audio	|419	|3004	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+163	|video	|1646	|3025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+164	|audio	|419	|3030	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+165	|audio	|419	|3056	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+166	|audio	|419	|3082	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+167	|video	|3578	|3092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+168	|audio	|419	|3109	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+169	|audio	|419	|3135	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+170	|video	|1824	|3158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+171	|audio	|419	|3161	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+172	|audio	|419	|3187	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+173	|audio	|418	|3213	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+174	|video	|2176	|3225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+175	|audio	|419	|3239	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+176	|audio	|419	|3265	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+177	|audio	|419	|3291	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+178	|video	|3045	|3292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+179	|audio	|419	|3317	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+180	|audio	|419	|3344	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+181	|video	|2011	|3358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+182	|audio	|419	|3370	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+183	|audio	|419	|3396	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+184	|audio	|419	|3422	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+185	|video	|2183	|3425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+186	|audio	|419	|3448	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+187	|audio	|419	|3474	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+188	|video	|1617	|3492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+189	|audio	|419	|3500	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+190	|audio	|419	|3526	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+191	|audio	|419	|3553	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+192	|video	|2242	|3558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+193	|audio	|419	|3579	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+194	|audio	|419	|3605	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+195	|video	|2674	|3625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+196	|audio	|419	|3631	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+197	|audio	|419	|3657	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+198	|audio	|419	|3683	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+199	|video	|2736	|3692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+200	|audio	|419	|3709	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+201	|audio	|419	|3735	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+202	|video	|1147	|3758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+203	|audio	|419	|3762	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+204	|audio	|419	|3788	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+205	|audio	|419	|3814	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+206	|video	|2411	|3825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+207	|audio	|418	|3840	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+208	|audio	|419	|3866	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+209	|video	|1468	|3892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+210	|audio	|419	|3892	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+211	|audio	|419	|3918	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+212	|audio	|419	|3944	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+213	|video	|3445	|3958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+214	|audio	|419	|3971	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+215	|audio	|419	|3997	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+216	|audio	|419	|4023	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+217	|video	|1428	|4025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+218	|audio	|419	|4049	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+219	|audio	|419	|4075	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+220	|video	|2277	|4092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+221	|audio	|419	|4101	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+222	|audio	|419	|4127	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+223	|audio	|419	|4153	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+224	|video	|983	|4158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+225	|audio	|419	|4180	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+226	|audio	|419	|4206	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+227	|video	|2779	|4225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+228	|audio	|419	|4232	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+229	|audio	|419	|4258	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+230	|audio	|419	|4284	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+231	|video	|1020	|4292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+232	|audio	|419	|4310	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+233	|audio	|419	|4336	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+234	|video	|2068	|4358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+235	|audio	|419	|4362	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+236	|audio	|419	|4389	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+237	|audio	|419	|4415	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+238	|video	|818	|4425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+239	|audio	|419	|4441	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+240	|audio	|419	|4467	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+241	|video	|2158	|4492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+242	|audio	|418	|4493	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+243	|audio	|419	|4519	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+244	|audio	|419	|4545	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+245	|video	|841	|4558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+246	|audio	|419	|4571	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+247	|audio	|419	|4597	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+248	|audio	|419	|4624	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+249	|video	|2369	|4625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+250	|audio	|419	|4650	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+251	|audio	|419	|4676	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+252	|video	|823	|4692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+253	|audio	|419	|4702	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+254	|audio	|419	|4728	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+255	|audio	|419	|4754	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+256	|video	|2778	|4758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+257	|audio	|419	|4780	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+258	|audio	|419	|4806	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+259	|video	|1256	|4825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+260	|audio	|419	|4833	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+261	|audio	|419	|4859	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+262	|audio	|419	|4885	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+263	|video	|1939	|4892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+264	|audio	|419	|4911	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+265	|audio	|419	|4937	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+266	|video	|784	|4958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+267	|audio	|419	|4963	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+268	|audio	|419	|4989	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+269	|audio	|419	|5015	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+270	|video	|2606	|5025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+271	|audio	|419	|5042	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+272	|audio	|419	|5068	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+273	|video	|1096	|5092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+274	|audio	|419	|5094	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+275	|audio	|418	|5120	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+276	|audio	|419	|5146	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+277	|video	|2613	|5158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+278	|audio	|419	|5172	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+279	|audio	|419	|5198	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+280	|audio	|419	|5224	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+281	|video	|1416	|5225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+282	|audio	|419	|5251	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+283	|audio	|419	|5277	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+284	|video	|1746	|5292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+285	|audio	|419	|5303	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+286	|audio	|419	|5329	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+287	|audio	|419	|5355	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+288	|video	|840	|5358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+289	|audio	|419	|5381	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+290	|audio	|419	|5407	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+291	|video	|1568	|5425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+292	|audio	|419	|5433	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+293	|audio	|419	|5460	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+294	|audio	|419	|5486	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+295	|video	|2031	|5492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+296	|audio	|419	|5512	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+297	|audio	|419	|5538	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+298	|video	|633	|5558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+299	|audio	|419	|5564	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+300	|audio	|419	|5590	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+301	|audio	|419	|5616	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+302	|video	|2572	|5625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+303	|audio	|419	|5642	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+304	|audio	|419	|5669	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+305	|video	|877	|5692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+306	|audio	|419	|5695	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+307	|audio	|419	|5721	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+308	|audio	|419	|5747	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+309	|video	|3105	|5758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+310	|audio	|418	|5773	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+311	|audio	|419	|5799	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+312	|video	|1419	|5825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+313	|audio	|419	|5825	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+314	|audio	|419	|5851	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+315	|audio	|419	|5877	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+316	|video	|2309	|5892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+317	|audio	|419	|5904	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+318	|audio	|419	|5930	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+319	|audio	|419	|5956	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+320	|video	|1124	|5958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+321	|audio	|419	|5982	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+322	|audio	|419	|6008	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+323	|video	|7592	|6025	|keyframe (for AVC, a seekable frame)	|AVC	|
+324	|audio	|419	|6034	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+325	|audio	|419	|6060	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+326	|audio	|419	|6086	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+327	|video	|873	|6092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+328	|audio	|419	|6113	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+329	|audio	|419	|6139	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+330	|video	|344	|6158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+331	|audio	|419	|6165	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+332	|audio	|419	|6191	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+333	|audio	|419	|6217	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+334	|video	|1483	|6225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+335	|audio	|419	|6243	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+336	|audio	|419	|6269	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+337	|video	|657	|6292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+338	|audio	|419	|6295	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+339	|audio	|419	|6322	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+340	|audio	|419	|6348	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+341	|video	|2146	|6358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+342	|audio	|419	|6374	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+343	|audio	|418	|6400	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+344	|video	|1033	|6425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+345	|audio	|419	|6426	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+346	|audio	|419	|6452	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+347	|audio	|419	|6478	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+348	|video	|1862	|6492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+349	|audio	|419	|6504	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+350	|audio	|419	|6531	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+351	|audio	|419	|6557	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+352	|video	|1098	|6558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+353	|audio	|419	|6583	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+354	|audio	|419	|6609	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+355	|video	|1849	|6625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+356	|audio	|419	|6635	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+357	|audio	|419	|6661	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+358	|audio	|419	|6687	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+359	|video	|1078	|6692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+360	|audio	|419	|6713	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+361	|audio	|419	|6740	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+362	|video	|1214	|6758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+363	|audio	|419	|6766	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+364	|audio	|419	|6792	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+365	|audio	|419	|6818	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+366	|video	|1219	|6825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+367	|audio	|419	|6844	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+368	|audio	|419	|6870	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+369	|video	|1397	|6892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+370	|audio	|419	|6896	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+371	|audio	|419	|6922	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+372	|audio	|419	|6949	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+373	|video	|744	|6958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+374	|audio	|419	|6975	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+375	|audio	|419	|7001	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+376	|video	|2072	|7025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+377	|audio	|419	|7027	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+378	|audio	|418	|7053	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+379	|audio	|419	|7079	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+380	|video	|1019	|7092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+381	|audio	|419	|7105	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+382	|audio	|419	|7131	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+383	|audio	|419	|7157	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+384	|video	|1687	|7158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+385	|audio	|419	|7184	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+386	|audio	|419	|7210	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+387	|video	|1699	|7225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+388	|audio	|419	|7236	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+389	|audio	|419	|7262	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+390	|audio	|419	|7288	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+391	|video	|2021	|7292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+392	|audio	|419	|7314	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+393	|audio	|419	|7340	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+394	|video	|1122	|7358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+395	|audio	|419	|7366	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+396	|audio	|419	|7393	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+397	|audio	|419	|7419	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+398	|video	|1801	|7425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+399	|audio	|419	|7445	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+400	|audio	|419	|7471	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+401	|video	|2157	|7492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+402	|audio	|419	|7497	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+403	|audio	|419	|7523	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+404	|audio	|419	|7549	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+405	|video	|1319	|7558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+406	|audio	|419	|7575	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+407	|audio	|419	|7602	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+408	|video	|1765	|7625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+409	|audio	|419	|7628	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+410	|audio	|419	|7654	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+411	|audio	|418	|7680	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+412	|video	|2271	|7692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+413	|audio	|419	|7706	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+414	|audio	|419	|7732	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+415	|video	|1146	|7758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+416	|audio	|419	|7758	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+417	|audio	|419	|7784	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+418	|audio	|419	|7811	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+419	|video	|2830	|7825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+420	|audio	|419	|7837	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+421	|audio	|419	|7863	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+422	|audio	|419	|7889	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+423	|video	|1637	|7892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+424	|audio	|419	|7915	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+425	|audio	|419	|7941	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+426	|video	|3166	|7958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+427	|audio	|419	|7967	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+428	|audio	|419	|7993	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+429	|audio	|419	|8020	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+430	|video	|1439	|8025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+431	|audio	|419	|8046	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+432	|audio	|419	|8072	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+433	|video	|2464	|8092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+434	|audio	|419	|8098	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+435	|audio	|419	|8124	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+436	|audio	|419	|8150	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+437	|video	|1058	|8158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+438	|audio	|419	|8176	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+439	|audio	|419	|8202	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+440	|video	|1940	|8225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+441	|audio	|419	|8229	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+442	|audio	|419	|8255	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+443	|audio	|419	|8281	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+444	|video	|2375	|8292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+445	|audio	|419	|8307	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+446	|audio	|418	|8333	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+447	|video	|963	|8358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+448	|audio	|419	|8359	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+449	|audio	|419	|8385	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+450	|audio	|419	|8411	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+451	|video	|2171	|8425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+452	|audio	|419	|8437	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+453	|audio	|419	|8464	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+454	|audio	|419	|8490	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+455	|video	|1048	|8492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+456	|audio	|419	|8516	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+457	|audio	|419	|8542	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+458	|video	|2222	|8558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+459	|audio	|419	|8568	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+460	|audio	|419	|8594	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+461	|audio	|419	|8620	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+462	|video	|884	|8625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+463	|audio	|419	|8646	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+464	|audio	|419	|8673	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+465	|video	|2321	|8692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+466	|audio	|419	|8699	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+467	|audio	|419	|8725	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+468	|audio	|419	|8751	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+469	|video	|1103	|8758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+470	|audio	|419	|8777	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+471	|audio	|419	|8803	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+472	|video	|2847	|8825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+473	|audio	|419	|8829	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+474	|audio	|419	|8855	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+475	|audio	|419	|8882	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+476	|video	|1260	|8892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+477	|audio	|419	|8908	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+478	|audio	|419	|8934	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+479	|video	|2451	|8958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+480	|audio	|418	|8960	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+481	|audio	|419	|8986	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+482	|audio	|419	|9012	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+483	|video	|3617	|9025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+484	|audio	|419	|9038	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+485	|audio	|419	|9064	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+486	|audio	|419	|9091	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+487	|video	|1163	|9092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+488	|audio	|419	|9117	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+489	|audio	|419	|9143	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+490	|video	|2992	|9158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+491	|audio	|419	|9169	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+492	|audio	|419	|9195	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+493	|audio	|419	|9221	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+494	|video	|1021	|9225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+495	|audio	|419	|9247	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+496	|audio	|419	|9273	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+497	|video	|3107	|9292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+498	|audio	|419	|9300	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+499	|audio	|419	|9326	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+500	|audio	|419	|9352	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+501	|video	|990	|9358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+502	|audio	|419	|9378	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+503	|audio	|419	|9404	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+504	|video	|3519	|9425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+505	|audio	|419	|9430	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+506	|audio	|419	|9456	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+507	|audio	|419	|9482	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+508	|video	|1189	|9492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+509	|audio	|419	|9509	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+510	|audio	|419	|9535	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+511	|video	|2202	|9558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+512	|audio	|419	|9561	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+513	|audio	|419	|9587	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+514	|audio	|418	|9613	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+515	|video	|3393	|9625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+516	|audio	|419	|9639	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+517	|audio	|419	|9665	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+518	|audio	|419	|9691	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+519	|video	|854	|9692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+520	|audio	|419	|9717	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+521	|audio	|419	|9744	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+522	|video	|2503	|9758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+523	|audio	|419	|9770	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+524	|audio	|419	|9796	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+525	|audio	|419	|9822	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+526	|video	|611	|9825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+527	|audio	|419	|9848	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+528	|audio	|419	|9874	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+529	|video	|2734	|9892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+530	|audio	|419	|9900	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+531	|audio	|419	|9926	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+532	|audio	|419	|9953	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+533	|video	|587	|9958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+534	|audio	|419	|9979	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+535	|audio	|419	|10005	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+536	|video	|3240	|10025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+537	|audio	|419	|10031	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+538	|audio	|419	|10057	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+539	|audio	|419	|10083	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+540	|video	|496	|10092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+541	|audio	|419	|10109	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+542	|audio	|419	|10135	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+543	|video	|3214	|10158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+544	|audio	|419	|10162	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+545	|audio	|419	|10188	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+546	|audio	|419	|10214	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+547	|video	|730	|10225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+548	|audio	|418	|10240	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+549	|audio	|419	|10266	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+550	|video	|2682	|10292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+551	|audio	|419	|10292	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+552	|audio	|419	|10318	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+553	|audio	|419	|10344	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+554	|video	|324	|10358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+555	|audio	|419	|10371	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+556	|audio	|419	|10397	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+557	|audio	|419	|10423	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+558	|video	|2925	|10425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+559	|audio	|419	|10449	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+560	|audio	|419	|10475	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+561	|video	|635	|10492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+562	|audio	|419	|10501	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+563	|audio	|419	|10527	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+564	|audio	|419	|10553	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+565	|video	|3550	|10558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+566	|audio	|419	|10580	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+567	|audio	|419	|10606	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+568	|video	|765	|10625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+569	|audio	|419	|10632	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+570	|audio	|419	|10658	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+571	|audio	|419	|10684	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+572	|video	|2037	|10692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+573	|audio	|419	|10710	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+574	|audio	|419	|10736	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+575	|video	|425	|10758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+576	|audio	|419	|10762	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+577	|audio	|419	|10789	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+578	|audio	|419	|10815	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+579	|video	|3602	|10825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+580	|audio	|419	|10841	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+581	|audio	|419	|10867	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+582	|video	|475	|10892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+583	|audio	|418	|10893	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+584	|audio	|419	|10919	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+585	|audio	|419	|10945	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+586	|video	|2242	|10958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+587	|audio	|419	|10971	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+588	|audio	|419	|10997	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+589	|audio	|419	|11024	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+590	|video	|502	|11025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+591	|audio	|419	|11050	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+592	|audio	|419	|11076	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+593	|video	|2855	|11092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+594	|audio	|419	|11102	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+595	|audio	|419	|11128	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+596	|audio	|419	|11154	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+597	|video	|560	|11158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+598	|audio	|419	|11180	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+599	|audio	|419	|11206	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+600	|video	|3001	|11225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+601	|audio	|419	|11233	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+602	|audio	|419	|11259	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+603	|audio	|419	|11285	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+604	|video	|617	|11292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+605	|audio	|419	|11311	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+606	|audio	|419	|11337	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+607	|video	|3899	|11358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+608	|audio	|419	|11363	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+609	|audio	|419	|11389	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+610	|audio	|419	|11415	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+611	|video	|791	|11425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+612	|audio	|419	|11442	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+613	|audio	|419	|11468	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+614	|video	|2356	|11492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+615	|audio	|419	|11494	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+616	|audio	|418	|11520	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+617	|audio	|419	|11546	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+618	|video	|559	|11558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+619	|audio	|419	|11572	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+620	|audio	|419	|11598	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+621	|audio	|419	|11624	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+622	|video	|2960	|11625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+623	|audio	|419	|11651	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+624	|audio	|419	|11677	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+625	|video	|700	|11692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+626	|audio	|419	|11703	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+627	|audio	|419	|11729	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+628	|audio	|419	|11755	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+629	|video	|3636	|11758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+630	|audio	|419	|11781	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+631	|audio	|419	|11807	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+632	|video	|706	|11825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+633	|audio	|419	|11833	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+634	|audio	|419	|11860	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+635	|audio	|419	|11886	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+636	|video	|2232	|11892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+637	|audio	|419	|11912	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+638	|audio	|419	|11938	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+639	|video	|445	|11958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+640	|audio	|419	|11964	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+641	|audio	|419	|11990	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+642	|audio	|419	|12016	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+643	|video	|15806	|12025	|keyframe (for AVC, a seekable frame)	|AVC	|
+644	|audio	|419	|12042	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+645	|audio	|419	|12069	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+646	|video	|357	|12092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+647	|audio	|419	|12095	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+648	|audio	|419	|12121	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+649	|audio	|419	|12147	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+650	|video	|127	|12158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+651	|audio	|418	|12173	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+652	|audio	|419	|12199	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+653	|video	|819	|12225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+654	|audio	|419	|12225	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+655	|audio	|419	|12251	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+656	|audio	|419	|12277	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+657	|video	|164	|12292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+658	|audio	|419	|12304	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+659	|audio	|419	|12330	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+660	|audio	|419	|12356	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+661	|video	|799	|12358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+662	|audio	|419	|12382	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+663	|audio	|419	|12408	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+664	|video	|183	|12425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+665	|audio	|419	|12434	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+666	|audio	|419	|12460	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+667	|audio	|419	|12486	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+668	|video	|3245	|12492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+669	|audio	|419	|12513	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+670	|audio	|419	|12539	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+671	|video	|213	|12558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+672	|audio	|419	|12565	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+673	|audio	|419	|12591	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+674	|audio	|419	|12617	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+675	|video	|4045	|12625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+676	|audio	|419	|12643	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+677	|audio	|419	|12669	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+678	|video	|1329	|12692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+679	|audio	|419	|12695	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+680	|audio	|419	|12722	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+681	|audio	|419	|12748	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+682	|video	|1385	|12758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+683	|audio	|419	|12774	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+684	|audio	|418	|12800	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+685	|video	|2586	|12825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+686	|audio	|419	|12826	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+687	|audio	|419	|12852	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+688	|audio	|419	|12878	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+689	|video	|1342	|12892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+690	|audio	|419	|12904	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+691	|audio	|419	|12931	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+692	|audio	|419	|12957	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+693	|video	|2382	|12958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+694	|audio	|419	|12983	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+695	|audio	|419	|13009	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+696	|video	|2166	|13025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+697	|audio	|419	|13035	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+698	|audio	|419	|13061	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+699	|audio	|419	|13087	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+700	|video	|1160	|13092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+701	|audio	|419	|13113	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+702	|audio	|419	|13140	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+703	|video	|2039	|13158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+704	|audio	|419	|13166	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+705	|audio	|419	|13192	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+706	|audio	|419	|13218	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+707	|video	|1445	|13225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+708	|audio	|419	|13244	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+709	|audio	|419	|13270	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+710	|video	|1105	|13292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+711	|audio	|419	|13296	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+712	|audio	|419	|13322	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+713	|audio	|419	|13349	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+714	|video	|499	|13358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+715	|audio	|419	|13375	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+716	|audio	|419	|13401	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+717	|video	|1409	|13425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+718	|audio	|419	|13427	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+719	|audio	|418	|13453	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+720	|audio	|419	|13479	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+721	|video	|1139	|13492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+722	|audio	|419	|13505	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+723	|audio	|419	|13531	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+724	|audio	|419	|13557	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+725	|video	|1741	|13558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+726	|audio	|419	|13584	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+727	|audio	|419	|13610	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+728	|video	|2139	|13625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+729	|audio	|419	|13636	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+730	|audio	|419	|13662	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+731	|audio	|419	|13688	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+732	|video	|1983	|13692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+733	|audio	|419	|13714	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+734	|audio	|419	|13740	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+735	|video	|2475	|13758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+736	|audio	|419	|13766	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+737	|audio	|419	|13793	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+738	|audio	|419	|13819	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+739	|video	|2713	|13825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+740	|audio	|419	|13845	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+741	|audio	|419	|13871	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+742	|video	|1537	|13892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+743	|audio	|419	|13897	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+744	|audio	|419	|13923	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+745	|audio	|419	|13949	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+746	|video	|1886	|13958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+747	|audio	|419	|13975	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+748	|audio	|419	|14002	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+749	|video	|3237	|14025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+750	|audio	|419	|14028	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+751	|audio	|419	|14054	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+752	|audio	|418	|14080	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+753	|video	|1169	|14092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+754	|audio	|419	|14106	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+755	|audio	|419	|14132	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+756	|video	|1789	|14158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+757	|audio	|419	|14158	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+758	|audio	|419	|14184	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+759	|audio	|419	|14211	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+760	|video	|2616	|14225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+761	|audio	|419	|14237	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+762	|audio	|419	|14263	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+763	|audio	|419	|14289	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+764	|video	|184	|14292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+765	|audio	|419	|14315	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+766	|audio	|419	|14341	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+767	|video	|1953	|14358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+768	|audio	|419	|14367	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+769	|audio	|419	|14393	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+770	|audio	|419	|14420	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+771	|video	|312	|14425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+772	|audio	|419	|14446	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+773	|audio	|419	|14472	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+774	|video	|1213	|14492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+775	|audio	|419	|14498	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+776	|audio	|419	|14524	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+777	|audio	|419	|14550	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+778	|video	|217	|14558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+779	|audio	|419	|14576	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+780	|audio	|419	|14602	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+781	|video	|1578	|14625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+782	|audio	|419	|14629	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+783	|audio	|419	|14655	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+784	|audio	|419	|14681	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+785	|video	|348	|14692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+786	|audio	|419	|14707	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+787	|audio	|418	|14733	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+788	|video	|1496	|14758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+789	|audio	|419	|14759	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+790	|audio	|419	|14785	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+791	|audio	|419	|14811	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+792	|video	|459	|14825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+793	|audio	|419	|14837	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+794	|audio	|419	|14864	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+795	|audio	|419	|14890	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+796	|video	|1959	|14892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+797	|audio	|419	|14916	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+798	|audio	|419	|14942	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+799	|video	|397	|14958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+800	|audio	|419	|14968	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+801	|audio	|419	|14994	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+802	|audio	|419	|15020	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+803	|video	|2850	|15025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+804	|audio	|419	|15046	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+805	|audio	|419	|15073	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+806	|video	|547	|15092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+807	|audio	|419	|15099	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+808	|audio	|419	|15125	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+809	|audio	|419	|15151	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+810	|video	|2492	|15158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+811	|audio	|419	|15177	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+812	|audio	|419	|15203	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+813	|video	|632	|15225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+814	|audio	|419	|15229	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+815	|audio	|419	|15255	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+816	|audio	|419	|15282	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+817	|video	|2370	|15292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+818	|audio	|419	|15308	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+819	|audio	|419	|15334	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+820	|video	|663	|15358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+821	|audio	|418	|15360	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+822	|audio	|419	|15386	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+823	|audio	|419	|15412	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+824	|video	|2212	|15425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+825	|audio	|419	|15438	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+826	|audio	|419	|15464	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+827	|audio	|419	|15491	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+828	|video	|761	|15492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+829	|audio	|419	|15517	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+830	|audio	|419	|15543	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+831	|video	|1905	|15558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+832	|audio	|419	|15569	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+833	|audio	|419	|15595	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+834	|audio	|419	|15621	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+835	|video	|2584	|15625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+836	|audio	|419	|15647	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+837	|audio	|419	|15673	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+838	|video	|2390	|15692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+839	|audio	|419	|15700	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+840	|audio	|419	|15726	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+841	|audio	|419	|15752	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+842	|video	|719	|15758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+843	|audio	|419	|15778	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+844	|audio	|419	|15804	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+845	|video	|2408	|15825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+846	|audio	|419	|15830	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+847	|audio	|419	|15856	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+848	|audio	|419	|15882	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+849	|video	|2383	|15892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+850	|audio	|419	|15909	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+851	|audio	|419	|15935	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+852	|video	|789	|15958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+853	|audio	|419	|15961	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+854	|audio	|419	|15987	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+855	|audio	|418	|16013	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+856	|video	|2162	|16025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+857	|audio	|419	|16039	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+858	|audio	|419	|16065	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+859	|audio	|419	|16091	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+860	|video	|700	|16092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+861	|audio	|419	|16117	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+862	|audio	|419	|16144	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+863	|video	|1968	|16158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+864	|audio	|419	|16170	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+865	|audio	|419	|16196	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+866	|audio	|419	|16222	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+867	|video	|2391	|16225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+868	|audio	|419	|16248	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+869	|audio	|419	|16274	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+870	|video	|3019	|16292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+871	|audio	|419	|16300	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+872	|audio	|419	|16326	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+873	|audio	|419	|16353	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+874	|video	|582	|16358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+875	|audio	|419	|16379	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+876	|audio	|419	|16405	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+877	|video	|2577	|16425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+878	|audio	|419	|16431	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+879	|audio	|419	|16457	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+880	|audio	|419	|16483	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+881	|video	|798	|16492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+882	|audio	|419	|16509	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+883	|audio	|419	|16535	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+884	|video	|1397	|16558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+885	|audio	|419	|16562	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+886	|audio	|419	|16588	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+887	|audio	|419	|16614	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+888	|video	|1732	|16625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+889	|audio	|418	|16640	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+890	|audio	|419	|16666	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+891	|video	|1306	|16692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+892	|audio	|419	|16692	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+893	|audio	|419	|16718	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+894	|audio	|419	|16744	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+895	|video	|1909	|16758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+896	|audio	|419	|16771	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+897	|audio	|419	|16797	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+898	|audio	|419	|16823	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+899	|video	|2438	|16825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+900	|audio	|419	|16849	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+901	|audio	|419	|16875	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+902	|video	|2677	|16892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+903	|audio	|419	|16901	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+904	|audio	|419	|16927	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+905	|audio	|419	|16953	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+906	|video	|876	|16958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+907	|audio	|419	|16980	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+908	|audio	|419	|17006	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+909	|video	|1852	|17025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+910	|audio	|419	|17032	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+911	|audio	|419	|17058	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+912	|audio	|419	|17084	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+913	|video	|1286	|17092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+914	|audio	|419	|17110	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+915	|audio	|419	|17136	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+916	|video	|1733	|17158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+917	|audio	|419	|17162	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+918	|audio	|419	|17189	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+919	|audio	|419	|17215	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+920	|video	|2268	|17225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+921	|audio	|419	|17241	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+922	|audio	|419	|17267	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+923	|video	|813	|17292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+924	|audio	|418	|17293	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+925	|audio	|419	|17319	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+926	|audio	|419	|17345	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+927	|video	|2405	|17358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+928	|audio	|419	|17371	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+929	|audio	|419	|17397	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+930	|audio	|419	|17424	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+931	|video	|1243	|17425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+932	|audio	|419	|17450	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+933	|audio	|419	|17476	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+934	|video	|1661	|17492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+935	|audio	|419	|17502	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+936	|audio	|419	|17528	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+937	|audio	|419	|17554	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+938	|video	|442	|17558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+939	|audio	|419	|17580	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+940	|audio	|419	|17606	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+941	|video	|1517	|17625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+942	|audio	|419	|17633	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+943	|audio	|419	|17659	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+944	|audio	|419	|17685	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+945	|video	|1125	|17692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+946	|audio	|419	|17711	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+947	|audio	|419	|17737	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+948	|video	|1436	|17758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+949	|audio	|419	|17763	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+950	|audio	|419	|17789	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+951	|audio	|419	|17815	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+952	|video	|1235	|17825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+953	|audio	|419	|17842	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+954	|audio	|419	|17868	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+955	|video	|1229	|17892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+956	|audio	|419	|17894	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+957	|audio	|418	|17920	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+958	|audio	|419	|17946	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+959	|video	|1472	|17958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+960	|audio	|419	|17972	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+961	|audio	|419	|17998	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+962	|audio	|419	|18024	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+963	|video	|4926	|18025	|keyframe (for AVC, a seekable frame)	|AVC	|
+964	|audio	|419	|18051	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+965	|audio	|419	|18077	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+966	|video	|920	|18092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+967	|audio	|419	|18103	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+968	|audio	|419	|18129	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+969	|audio	|419	|18155	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+970	|video	|216	|18158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+971	|audio	|419	|18181	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+972	|audio	|419	|18207	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+973	|video	|1626	|18225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+974	|audio	|419	|18233	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+975	|audio	|419	|18260	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+976	|audio	|419	|18286	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+977	|video	|265	|18292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+978	|audio	|419	|18312	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+979	|audio	|419	|18338	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+980	|video	|2090	|18358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+981	|audio	|419	|18364	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+982	|audio	|419	|18390	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+983	|audio	|419	|18416	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+984	|video	|569	|18425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+985	|audio	|419	|18442	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+986	|audio	|419	|18469	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+987	|video	|1872	|18492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+988	|audio	|419	|18495	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+989	|audio	|419	|18521	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+990	|audio	|419	|18547	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+991	|video	|573	|18558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+992	|audio	|418	|18573	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+993	|audio	|419	|18599	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+994	|video	|1947	|18625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+995	|audio	|419	|18625	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+996	|audio	|419	|18651	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+997	|audio	|419	|18677	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+998	|video	|1993	|18692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+999	|audio	|419	|18704	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1000	|audio	|419	|18730	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1001	|audio	|419	|18756	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1002	|video	|431	|18758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1003	|audio	|419	|18782	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1004	|audio	|419	|18808	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1005	|video	|2323	|18825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1006	|audio	|419	|18834	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1007	|audio	|419	|18860	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1008	|audio	|419	|18886	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1009	|video	|537	|18892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1010	|audio	|419	|18913	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1011	|audio	|419	|18939	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1012	|video	|1566	|18958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1013	|audio	|419	|18965	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1014	|audio	|419	|18991	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1015	|audio	|419	|19017	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1016	|video	|2493	|19025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1017	|audio	|419	|19043	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1018	|audio	|419	|19069	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1019	|video	|467	|19092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1020	|audio	|419	|19095	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1021	|audio	|419	|19122	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1022	|audio	|419	|19148	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1023	|video	|2554	|19158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1024	|audio	|419	|19174	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1025	|audio	|418	|19200	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1026	|video	|861	|19225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1027	|audio	|419	|19226	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1028	|audio	|419	|19252	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1029	|audio	|419	|19278	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1030	|video	|2114	|19292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1031	|audio	|419	|19304	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1032	|audio	|419	|19331	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1033	|audio	|419	|19357	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1034	|video	|444	|19358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1035	|audio	|419	|19383	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1036	|audio	|419	|19409	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1037	|video	|2680	|19425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1038	|audio	|419	|19435	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1039	|audio	|419	|19461	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1040	|audio	|419	|19487	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1041	|video	|460	|19492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1042	|audio	|419	|19513	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1043	|audio	|419	|19540	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1044	|video	|1323	|19558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1045	|audio	|419	|19566	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1046	|audio	|419	|19592	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1047	|audio	|419	|19618	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1048	|video	|3160	|19625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1049	|audio	|419	|19644	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1050	|audio	|419	|19670	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1051	|video	|555	|19692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1052	|audio	|419	|19696	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1053	|audio	|419	|19722	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1054	|audio	|419	|19749	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1055	|video	|2518	|19758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1056	|audio	|419	|19775	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1057	|audio	|419	|19801	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1058	|video	|736	|19825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1059	|audio	|419	|19827	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1060	|audio	|418	|19853	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1061	|audio	|419	|19879	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1062	|video	|2487	|19892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1063	|audio	|419	|19905	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1064	|audio	|419	|19931	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1065	|audio	|419	|19957	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1066	|video	|400	|19958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1067	|audio	|419	|19984	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1068	|audio	|419	|20010	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1069	|video	|2574	|20025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1070	|audio	|419	|20036	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1071	|audio	|419	|20062	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1072	|audio	|419	|20088	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1073	|video	|702	|20092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1074	|audio	|419	|20114	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1075	|audio	|419	|20140	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1076	|video	|3462	|20158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1077	|audio	|419	|20166	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1078	|audio	|419	|20193	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1079	|audio	|419	|20219	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1080	|video	|832	|20225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1081	|audio	|419	|20245	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1082	|audio	|419	|20271	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1083	|video	|2540	|20292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1084	|audio	|419	|20297	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1085	|audio	|419	|20323	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1086	|audio	|419	|20349	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1087	|video	|506	|20358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1088	|audio	|419	|20375	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1089	|audio	|419	|20402	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1090	|video	|1949	|20425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1091	|audio	|419	|20428	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1092	|audio	|419	|20454	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1093	|audio	|418	|20480	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1094	|video	|2302	|20492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1095	|audio	|419	|20506	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1096	|audio	|419	|20532	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1097	|video	|272	|20558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1098	|audio	|419	|20558	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1099	|audio	|419	|20584	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1100	|audio	|419	|20611	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1101	|video	|3468	|20625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1102	|audio	|419	|20637	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1103	|audio	|419	|20663	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1104	|audio	|419	|20689	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1105	|video	|646	|20692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1106	|audio	|419	|20715	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1107	|audio	|419	|20741	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1108	|video	|3196	|20758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1109	|audio	|419	|20767	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1110	|audio	|419	|20793	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1111	|audio	|419	|20820	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1112	|video	|884	|20825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1113	|audio	|419	|20846	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1114	|audio	|419	|20872	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1115	|video	|3069	|20892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1116	|audio	|419	|20898	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1117	|audio	|419	|20924	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1118	|audio	|419	|20950	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1119	|video	|696	|20958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1120	|audio	|419	|20976	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1121	|audio	|419	|21002	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1122	|video	|1849	|21025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1123	|audio	|419	|21029	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1124	|audio	|419	|21055	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1125	|audio	|419	|21081	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1126	|video	|2752	|21092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1127	|audio	|419	|21107	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1128	|audio	|418	|21133	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1129	|video	|443	|21158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1130	|audio	|419	|21159	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1131	|audio	|419	|21185	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1132	|audio	|419	|21211	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1133	|video	|2725	|21225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1134	|audio	|419	|21237	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1135	|audio	|419	|21264	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1136	|audio	|419	|21290	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1137	|video	|799	|21292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1138	|audio	|419	|21316	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1139	|audio	|419	|21342	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1140	|video	|3118	|21358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1141	|audio	|419	|21368	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1142	|audio	|419	|21394	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1143	|audio	|419	|21420	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1144	|video	|961	|21425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1145	|audio	|419	|21446	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1146	|audio	|419	|21473	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1147	|video	|2331	|21492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1148	|audio	|419	|21499	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1149	|audio	|419	|21525	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1150	|audio	|419	|21551	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1151	|video	|619	|21558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1152	|audio	|419	|21577	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1153	|audio	|419	|21603	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1154	|video	|2633	|21625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1155	|audio	|419	|21629	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1156	|audio	|419	|21655	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1157	|audio	|419	|21682	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1158	|video	|684	|21692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1159	|audio	|419	|21708	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1160	|audio	|419	|21734	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1161	|video	|2442	|21758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1162	|audio	|418	|21760	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1163	|audio	|419	|21786	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1164	|audio	|419	|21812	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1165	|video	|674	|21825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1166	|audio	|419	|21838	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1167	|audio	|419	|21864	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1168	|audio	|419	|21891	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1169	|video	|3185	|21892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1170	|audio	|419	|21917	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1171	|audio	|419	|21943	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1172	|video	|640	|21958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1173	|audio	|419	|21969	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1174	|audio	|419	|21995	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1175	|audio	|419	|22021	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1176	|video	|2403	|22025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1177	|audio	|419	|22047	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1178	|audio	|419	|22073	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1179	|video	|1636	|22092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1180	|audio	|419	|22100	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1181	|audio	|419	|22126	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1182	|audio	|419	|22152	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1183	|video	|2724	|22158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1184	|audio	|419	|22178	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1185	|audio	|419	|22204	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1186	|video	|2945	|22225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1187	|audio	|419	|22230	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1188	|audio	|419	|22256	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1189	|audio	|419	|22282	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1190	|video	|685	|22292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1191	|audio	|419	|22309	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1192	|audio	|419	|22335	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1193	|video	|2530	|22358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1194	|audio	|419	|22361	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1195	|audio	|419	|22387	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1196	|audio	|418	|22413	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1197	|video	|684	|22425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1198	|audio	|419	|22439	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1199	|audio	|419	|22465	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1200	|audio	|419	|22491	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1201	|video	|1586	|22492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1202	|audio	|419	|22517	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1203	|audio	|419	|22544	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1204	|video	|3465	|22558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1205	|audio	|419	|22570	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1206	|audio	|419	|22596	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1207	|audio	|419	|22622	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1208	|video	|1066	|22625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1209	|audio	|419	|22648	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1210	|audio	|419	|22674	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1211	|video	|2705	|22692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1212	|audio	|419	|22700	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1213	|audio	|419	|22726	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1214	|audio	|419	|22753	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1215	|video	|906	|22758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1216	|audio	|419	|22779	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1217	|audio	|419	|22805	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1218	|video	|2885	|22825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1219	|audio	|419	|22831	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1220	|audio	|419	|22857	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1221	|audio	|419	|22883	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1222	|video	|892	|22892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1223	|audio	|419	|22909	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1224	|audio	|419	|22935	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1225	|video	|1520	|22958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1226	|audio	|419	|22962	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1227	|audio	|419	|22988	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1228	|audio	|419	|23014	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1229	|video	|2041	|23025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1230	|audio	|418	|23040	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1231	|audio	|419	|23066	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1232	|video	|2872	|23092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1233	|audio	|419	|23092	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1234	|audio	|419	|23118	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1235	|audio	|419	|23144	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1236	|video	|831	|23158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1237	|audio	|419	|23171	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1238	|audio	|419	|23197	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1239	|audio	|419	|23223	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1240	|video	|2098	|23225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1241	|audio	|419	|23249	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1242	|audio	|419	|23275	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1243	|video	|2414	|23292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1244	|audio	|419	|23301	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1245	|audio	|419	|23327	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1246	|audio	|419	|23353	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1247	|video	|896	|23358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1248	|audio	|419	|23380	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1249	|audio	|419	|23406	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1250	|video	|1899	|23425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1251	|audio	|419	|23432	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1252	|audio	|419	|23458	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1253	|audio	|419	|23484	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1254	|video	|683	|23492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1255	|audio	|419	|23510	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1256	|audio	|419	|23536	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1257	|video	|2195	|23558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1258	|audio	|419	|23562	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1259	|audio	|419	|23589	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1260	|audio	|419	|23615	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1261	|video	|592	|23625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1262	|audio	|419	|23641	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1263	|audio	|419	|23667	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1264	|video	|624	|23692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1265	|audio	|418	|23693	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1266	|audio	|419	|23719	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1267	|audio	|419	|23745	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1268	|video	|1163	|23758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1269	|audio	|419	|23771	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1270	|audio	|419	|23797	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1271	|audio	|419	|23824	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1272	|video	|1950	|23825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1273	|audio	|419	|23850	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1274	|audio	|419	|23876	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1275	|video	|1685	|23892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1276	|audio	|419	|23902	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1277	|audio	|419	|23928	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1278	|audio	|419	|23954	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1279	|video	|2386	|23958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1280	|audio	|419	|23980	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1281	|audio	|419	|24006	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1282	|video	|6832	|24025	|keyframe (for AVC, a seekable frame)	|AVC	|
+1283	|audio	|419	|24033	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1284	|audio	|419	|24059	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1285	|audio	|419	|24085	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1286	|video	|1136	|24092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1287	|audio	|419	|24111	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1288	|audio	|419	|24137	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1289	|video	|1997	|24158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1290	|audio	|419	|24163	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1291	|audio	|419	|24189	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1292	|audio	|419	|24215	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1293	|video	|728	|24225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1294	|audio	|419	|24242	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1295	|audio	|419	|24268	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1296	|video	|1984	|24292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1297	|audio	|419	|24294	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1298	|audio	|418	|24320	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1299	|audio	|419	|24346	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1300	|video	|707	|24358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1301	|audio	|419	|24372	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1302	|audio	|419	|24398	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1303	|audio	|419	|24424	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1304	|video	|2113	|24425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1305	|audio	|419	|24451	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1306	|audio	|419	|24477	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1307	|video	|790	|24492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1308	|audio	|419	|24503	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1309	|audio	|419	|24529	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1310	|audio	|419	|24555	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1311	|video	|2542	|24558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1312	|audio	|419	|24581	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1313	|audio	|419	|24607	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1314	|video	|847	|24625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1315	|audio	|419	|24633	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1316	|audio	|419	|24660	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1317	|audio	|419	|24686	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1318	|video	|2165	|24692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1319	|audio	|419	|24712	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1320	|audio	|419	|24738	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1321	|video	|439	|24758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1322	|audio	|419	|24764	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1323	|audio	|419	|24790	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1324	|audio	|419	|24816	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1325	|video	|2299	|24825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1326	|audio	|419	|24842	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1327	|audio	|419	|24869	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1328	|video	|663	|24892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1329	|audio	|419	|24895	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1330	|audio	|419	|24921	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1331	|audio	|419	|24947	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1332	|video	|2988	|24958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1333	|audio	|418	|24973	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1334	|audio	|419	|24999	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1335	|video	|733	|25025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1336	|audio	|419	|25025	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1337	|audio	|419	|25051	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1338	|audio	|419	|25077	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1339	|video	|2789	|25092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1340	|audio	|419	|25104	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1341	|audio	|419	|25130	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1342	|audio	|419	|25156	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1343	|video	|746	|25158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1344	|audio	|419	|25182	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1345	|audio	|419	|25208	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1346	|video	|838	|25225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1347	|audio	|419	|25234	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1348	|audio	|419	|25260	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1349	|audio	|419	|25286	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1350	|video	|2245	|25292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1351	|audio	|419	|25313	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1352	|audio	|419	|25339	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1353	|video	|712	|25358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1354	|audio	|419	|25365	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1355	|audio	|419	|25391	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1356	|audio	|419	|25417	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1357	|video	|2696	|25425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1358	|audio	|419	|25443	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1359	|audio	|419	|25469	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1360	|video	|997	|25492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1361	|audio	|419	|25495	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1362	|audio	|419	|25522	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1363	|audio	|419	|25548	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1364	|video	|3251	|25558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1365	|audio	|419	|25574	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1366	|audio	|418	|25600	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1367	|video	|1434	|25625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1368	|audio	|419	|25626	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1369	|audio	|419	|25652	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1370	|audio	|419	|25678	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1371	|video	|2589	|25692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1372	|audio	|419	|25704	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1373	|audio	|419	|25731	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1374	|audio	|419	|25757	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1375	|video	|1185	|25758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1376	|audio	|419	|25783	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1377	|audio	|419	|25809	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1378	|video	|2654	|25825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1379	|audio	|419	|25835	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1380	|audio	|419	|25861	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1381	|audio	|419	|25887	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1382	|video	|1357	|25892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1383	|audio	|419	|25913	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1384	|audio	|419	|25940	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1385	|video	|3411	|25958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1386	|audio	|419	|25966	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1387	|audio	|419	|25992	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1388	|audio	|419	|26018	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1389	|video	|1545	|26025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1390	|audio	|419	|26044	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1391	|audio	|419	|26070	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1392	|video	|2118	|26092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1393	|audio	|419	|26096	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1394	|audio	|419	|26122	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1395	|audio	|419	|26149	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1396	|video	|2462	|26158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1397	|audio	|419	|26175	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1398	|audio	|419	|26201	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1399	|video	|2467	|26225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1400	|audio	|419	|26227	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1401	|audio	|418	|26253	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1402	|audio	|419	|26279	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1403	|video	|1773	|26292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1404	|audio	|419	|26305	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1405	|audio	|419	|26331	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1406	|audio	|419	|26357	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1407	|video	|1938	|26358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1408	|audio	|419	|26384	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1409	|audio	|419	|26410	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1410	|video	|1717	|26425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1411	|audio	|419	|26436	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1412	|audio	|419	|26462	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1413	|audio	|419	|26488	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1414	|video	|1174	|26492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1415	|audio	|419	|26514	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1416	|audio	|419	|26540	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1417	|video	|1370	|26558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1418	|audio	|419	|26566	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1419	|audio	|419	|26593	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1420	|audio	|419	|26619	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1421	|video	|2092	|26625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1422	|audio	|419	|26645	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1423	|audio	|419	|26671	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1424	|video	|1366	|26692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1425	|audio	|419	|26697	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1426	|audio	|419	|26723	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1427	|audio	|419	|26749	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1428	|video	|1155	|26758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1429	|audio	|419	|26775	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1430	|audio	|419	|26802	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1431	|video	|876	|26825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1432	|audio	|419	|26828	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1433	|audio	|419	|26854	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1434	|audio	|418	|26880	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1435	|video	|459	|26892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1436	|audio	|419	|26906	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1437	|audio	|419	|26932	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1438	|video	|1838	|26958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1439	|audio	|419	|26958	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1440	|audio	|419	|26984	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1441	|audio	|419	|27011	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1442	|video	|1360	|27025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1443	|audio	|419	|27037	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1444	|audio	|419	|27063	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1445	|audio	|419	|27089	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1446	|video	|1098	|27092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1447	|audio	|419	|27115	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1448	|audio	|419	|27141	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1449	|video	|1982	|27158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1450	|audio	|419	|27167	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1451	|audio	|419	|27193	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1452	|audio	|419	|27220	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1453	|video	|1239	|27225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1454	|audio	|419	|27246	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1455	|audio	|419	|27272	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1456	|video	|653	|27292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1457	|audio	|419	|27298	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1458	|audio	|419	|27324	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1459	|audio	|419	|27350	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1460	|video	|1311	|27358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1461	|audio	|419	|27376	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1462	|audio	|419	|27402	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1463	|video	|1973	|27425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1464	|audio	|419	|27429	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1465	|audio	|419	|27455	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1466	|audio	|419	|27481	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1467	|video	|1703	|27492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1468	|audio	|419	|27507	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1469	|audio	|418	|27533	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1470	|video	|2064	|27558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1471	|audio	|419	|27559	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1472	|audio	|419	|27585	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1473	|audio	|419	|27611	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1474	|video	|1808	|27625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1475	|audio	|419	|27637	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1476	|audio	|419	|27664	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1477	|audio	|419	|27690	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1478	|video	|196	|27692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1479	|audio	|419	|27716	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1480	|audio	|419	|27742	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1481	|video	|2111	|27758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1482	|audio	|419	|27768	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1483	|audio	|419	|27794	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1484	|audio	|419	|27820	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1485	|video	|114	|27825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1486	|audio	|419	|27846	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1487	|audio	|419	|27873	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1488	|video	|122	|27892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1489	|audio	|419	|27899	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1490	|audio	|419	|27925	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1491	|audio	|419	|27951	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1492	|video	|116	|27958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1493	|audio	|419	|27977	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1494	|audio	|419	|28003	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1495	|video	|2143	|28025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1496	|audio	|419	|28029	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1497	|audio	|419	|28055	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1498	|audio	|419	|28082	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1499	|video	|354	|28092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1500	|audio	|419	|28108	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1501	|audio	|419	|28134	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1502	|video	|650	|28158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1503	|audio	|418	|28160	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1504	|audio	|419	|28186	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1505	|audio	|419	|28212	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1506	|video	|878	|28225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1507	|audio	|419	|28238	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1508	|audio	|419	|28264	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1509	|audio	|419	|28291	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1510	|video	|1806	|28292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1511	|audio	|419	|28317	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1512	|audio	|419	|28343	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1513	|video	|960	|28358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1514	|audio	|419	|28369	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1515	|audio	|419	|28395	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1516	|audio	|419	|28421	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1517	|video	|920	|28425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1518	|audio	|419	|28447	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1519	|audio	|419	|28473	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1520	|video	|1540	|28492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1521	|audio	|419	|28500	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1522	|audio	|419	|28526	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1523	|audio	|419	|28552	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1524	|video	|483	|28558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1525	|audio	|419	|28578	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1526	|audio	|419	|28604	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1527	|video	|95	|28625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1528	|audio	|419	|28630	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1529	|audio	|419	|28656	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1530	|audio	|419	|28682	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1531	|video	|90	|28692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1532	|audio	|419	|28709	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1533	|audio	|419	|28735	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1534	|video	|1482	|28758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1535	|audio	|419	|28761	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1536	|audio	|419	|28787	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1537	|audio	|418	|28813	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1538	|video	|93	|28825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1539	|audio	|419	|28839	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1540	|audio	|419	|28865	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1541	|audio	|419	|28891	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1542	|video	|91	|28892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1543	|audio	|419	|28917	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1544	|audio	|419	|28944	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1545	|video	|88	|28958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1546	|audio	|419	|28970	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1547	|audio	|419	|28996	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1548	|audio	|419	|29022	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1549	|video	|1973	|29025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1550	|audio	|419	|29048	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1551	|audio	|419	|29074	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1552	|video	|103	|29092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1553	|audio	|419	|29100	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1554	|audio	|419	|29126	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1555	|audio	|419	|29153	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1556	|video	|104	|29158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1557	|audio	|419	|29179	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1558	|audio	|419	|29205	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1559	|video	|91	|29225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1560	|audio	|419	|29231	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1561	|audio	|419	|29257	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1562	|audio	|419	|29283	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1563	|video	|2362	|29292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1564	|audio	|419	|29309	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1565	|audio	|419	|29335	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1566	|video	|104	|29358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1567	|audio	|419	|29362	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1568	|audio	|419	|29388	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1569	|audio	|419	|29414	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1570	|video	|88	|29425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1571	|audio	|418	|29440	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1572	|audio	|419	|29466	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1573	|video	|80	|29492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1574	|audio	|419	|29492	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1575	|audio	|419	|29518	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1576	|audio	|419	|29544	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1577	|video	|1259	|29558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1578	|audio	|419	|29571	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1579	|audio	|419	|29597	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1580	|audio	|419	|29623	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1581	|video	|92	|29625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1582	|audio	|419	|29649	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1583	|audio	|419	|29675	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1584	|video	|95	|29692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1585	|audio	|419	|29701	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1586	|audio	|419	|29727	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1587	|audio	|419	|29753	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1588	|video	|92	|29758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1589	|audio	|419	|29780	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1590	|audio	|419	|29806	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1591	|video	|1288	|29825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1592	|audio	|419	|29832	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1593	|audio	|419	|29858	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1594	|audio	|419	|29884	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1595	|video	|126	|29892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1596	|audio	|419	|29910	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1597	|audio	|419	|29936	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1598	|video	|84	|29958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1599	|audio	|419	|29962	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1600	|audio	|419	|29989	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1601	|audio	|419	|30015	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1602	|video	|9735	|30025	|keyframe (for AVC, a seekable frame)	|AVC	|
+1603	|audio	|419	|30041	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1604	|audio	|419	|30067	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1605	|video	|360	|30092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1606	|audio	|418	|30093	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1607	|audio	|419	|30119	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1608	|audio	|419	|30145	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1609	|video	|69	|30158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1610	|audio	|419	|30171	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1611	|audio	|419	|30197	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1612	|audio	|419	|30224	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1613	|video	|70	|30225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1614	|audio	|419	|30250	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1615	|audio	|419	|30276	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1616	|video	|65	|30292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1617	|audio	|419	|30302	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1618	|audio	|419	|30328	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1619	|audio	|419	|30354	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1620	|video	|986	|30358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1621	|audio	|419	|30380	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1622	|audio	|419	|30406	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1623	|video	|75	|30425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1624	|audio	|419	|30433	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1625	|audio	|419	|30459	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1626	|audio	|419	|30485	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1627	|video	|73	|30492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1628	|audio	|419	|30511	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1629	|audio	|419	|30537	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1630	|video	|75	|30558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1631	|audio	|419	|30563	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1632	|audio	|419	|30589	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1633	|audio	|419	|30615	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1634	|video	|1300	|30625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1635	|audio	|419	|30642	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1636	|audio	|419	|30668	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1637	|video	|86	|30692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1638	|audio	|419	|30694	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1639	|audio	|418	|30720	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1640	|audio	|419	|30746	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1641	|video	|88	|30758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1642	|audio	|419	|30772	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1643	|audio	|419	|30798	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1644	|audio	|419	|30824	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1645	|video	|81	|30825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1646	|audio	|419	|30851	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1647	|audio	|419	|30877	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1648	|video	|1460	|30892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1649	|audio	|419	|30903	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1650	|audio	|419	|30929	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1651	|audio	|419	|30955	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1652	|video	|82	|30958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1653	|audio	|419	|30981	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1654	|audio	|419	|31007	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1655	|video	|92	|31025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1656	|audio	|419	|31033	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1657	|audio	|419	|31060	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1658	|audio	|419	|31086	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1659	|video	|75	|31092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1660	|audio	|419	|31112	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1661	|audio	|419	|31138	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1662	|video	|1444	|31158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1663	|audio	|419	|31164	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1664	|audio	|419	|31190	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1665	|audio	|419	|31216	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1666	|video	|92	|31225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1667	|audio	|419	|31242	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1668	|audio	|419	|31269	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1669	|video	|146	|31292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1670	|audio	|419	|31295	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1671	|audio	|419	|31321	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1672	|audio	|419	|31347	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1673	|video	|90	|31358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1674	|audio	|418	|31373	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1675	|audio	|419	|31399	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1676	|video	|1256	|31425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1677	|audio	|419	|31425	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1678	|audio	|419	|31451	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1679	|audio	|419	|31477	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1680	|video	|100	|31492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1681	|audio	|419	|31504	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1682	|audio	|419	|31530	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1683	|audio	|419	|31556	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1684	|video	|86	|31558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1685	|audio	|419	|31582	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1686	|audio	|419	|31608	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1687	|video	|93	|31625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1688	|audio	|419	|31634	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1689	|audio	|419	|31660	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1690	|audio	|419	|31686	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1691	|video	|1383	|31692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1692	|audio	|419	|31713	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1693	|audio	|419	|31739	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1694	|video	|103	|31758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1695	|audio	|419	|31765	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1696	|audio	|419	|31791	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1697	|audio	|419	|31817	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1698	|video	|114	|31825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1699	|audio	|419	|31843	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1700	|audio	|419	|31869	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1701	|video	|87	|31892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1702	|audio	|419	|31895	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1703	|audio	|419	|31922	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1704	|audio	|419	|31948	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1705	|video	|2235	|31958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1706	|audio	|419	|31974	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1707	|audio	|418	|32000	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1708	|video	|109	|32025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1709	|audio	|419	|32026	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1710	|audio	|419	|32052	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1711	|audio	|419	|32078	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1712	|video	|114	|32092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1713	|audio	|419	|32104	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1714	|audio	|419	|32131	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1715	|audio	|419	|32157	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1716	|video	|98	|32158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1717	|audio	|419	|32183	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1718	|audio	|419	|32209	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1719	|video	|1844	|32225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1720	|audio	|419	|32235	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1721	|audio	|419	|32261	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1722	|audio	|419	|32287	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1723	|video	|121	|32292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1724	|audio	|419	|32313	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1725	|audio	|419	|32340	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1726	|video	|138	|32358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1727	|audio	|419	|32366	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1728	|audio	|419	|32392	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1729	|audio	|419	|32418	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1730	|video	|121	|32425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1731	|audio	|419	|32444	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1732	|audio	|419	|32470	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1733	|video	|1501	|32492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1734	|audio	|419	|32496	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1735	|audio	|419	|32522	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1736	|audio	|419	|32549	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1737	|video	|100	|32558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1738	|audio	|419	|32575	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1739	|audio	|419	|32601	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1740	|video	|132	|32625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1741	|audio	|419	|32627	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1742	|audio	|418	|32653	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1743	|audio	|419	|32679	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1744	|video	|101	|32692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1745	|audio	|419	|32705	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1746	|audio	|419	|32731	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1747	|audio	|419	|32757	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1748	|video	|1641	|32758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1749	|audio	|419	|32784	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1750	|audio	|419	|32810	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1751	|video	|147	|32825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1752	|audio	|419	|32836	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1753	|audio	|419	|32862	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1754	|audio	|419	|32888	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1755	|video	|162	|32892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1756	|audio	|419	|32914	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1757	|audio	|419	|32940	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1758	|video	|109	|32958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1759	|audio	|419	|32966	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1760	|audio	|419	|32993	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1761	|audio	|419	|33019	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1762	|video	|1591	|33025	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1763	|audio	|419	|33045	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1764	|audio	|419	|33071	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1765	|video	|190	|33092	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1766	|audio	|419	|33097	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1767	|audio	|419	|33123	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1768	|audio	|419	|33149	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1769	|video	|158	|33158	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1770	|audio	|419	|33175	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1771	|audio	|419	|33202	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1772	|video	|121	|33225	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1773	|audio	|419	|33228	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1774	|audio	|419	|33254	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1775	|audio	|418	|33280	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1776	|video	|1539	|33292	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1777	|audio	|419	|33306	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1778	|audio	|419	|33332	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1779	|video	|122	|33358	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1780	|audio	|419	|33358	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1781	|audio	|419	|33384	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1782	|audio	|419	|33411	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1783	|video	|135	|33425	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1784	|audio	|419	|33437	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1785	|audio	|419	|33463	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1786	|audio	|419	|33489	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1787	|video	|161	|33492	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1788	|audio	|419	|33515	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1789	|audio	|419	|33541	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1790	|video	|1498	|33558	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1791	|audio	|419	|33567	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1792	|audio	|419	|33593	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1793	|audio	|419	|33620	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1794	|video	|113	|33625	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1795	|audio	|419	|33646	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1796	|audio	|419	|33672	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1797	|video	|162	|33692	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1798	|audio	|419	|33698	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1799	|audio	|419	|33724	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1800	|audio	|419	|33750	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1801	|video	|96	|33758	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1802	|audio	|419	|33776	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1803	|audio	|419	|33802	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1804	|video	|2202	|33825	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1805	|audio	|419	|33829	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1806	|audio	|419	|33855	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1807	|audio	|419	|33881	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1808	|video	|110	|33892	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1809	|audio	|419	|33907	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1810	|audio	|418	|33933	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1811	|video	|95	|33958	|inter frame (for AVC, a non-seekable frame)	|AVC	|
+1812	|audio	|419	|33959	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1813	|audio	|419	|33985	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1814	|audio	|419	|34011	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1815	|audio	|419	|34037	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1816	|audio	|419	|34064	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1817	|audio	|419	|34090	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1818	|audio	|419	|34116	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1819	|audio	|419	|34142	|MP3	|44-kHz	|snd16Bit	|sndStereo	|
+1820	|video	|5	|33958	|keyframe (for AVC, a seekable frame)	|AVC	|

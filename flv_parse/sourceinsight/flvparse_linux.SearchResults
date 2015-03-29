@@ -1,0 +1,22 @@
+---- dlg Matches (21 in 1 files) ----
+Flvparse.cpp (g:\work\flv_parse):CSpecialFFLVDlg *dlg;
+Flvparse.cpp (g:\work\flv_parse):	dlg=(CSpecialFFLVDlg *)lparam;
+Flvparse.cpp (g:\work\flv_parse):	//dlg->AppendBInfo("Header","Signature",temp_str,"为FLV文件标识，一般总为“FLV”");
+Flvparse.cpp (g:\work\flv_parse):	dlg->AppendBInfo("Header","Signature",temp_str,"Signature");
+Flvparse.cpp (g:\work\flv_parse):	//dlg->AppendBInfo("Header","Version",temp_str,"为FLV文件版本，目前为0x01");
+Flvparse.cpp (g:\work\flv_parse):	dlg->AppendBInfo("Header","Version",temp_str,"Version");
+Flvparse.cpp (g:\work\flv_parse):	//dlg->AppendBInfo("Header","Flag",temp_str,"倒数第一bit是1表示有视频，倒数第三bit是1表示有音频，其他都应该是0");
+Flvparse.cpp (g:\work\flv_parse):	dlg->AppendBInfo("Header","Flag",temp_str,"Flag");
+Flvparse.cpp (g:\work\flv_parse):	//dlg->AppendBInfo("Header","HeaderSize",temp_str,"整个文件头的长度，一般是9（3+1+1+4），有时候后面还有些别的信息，就不是9了");
+Flvparse.cpp (g:\work\flv_parse):	dlg->AppendBInfo("Header","HeaderSize",temp_str,"HeaderSize");
+Flvparse.cpp (g:\work\flv_parse):		dlg->AppendTLInfo(tag.TagType,temp_datasize,temp_timestamp,tag.Reserved);
+Flvparse.cpp (g:\work\flv_parse):						dlg->ParseTagData_fb(8,temp_tag_f_b);
+Flvparse.cpp (g:\work\flv_parse):					if(dlg->m_fflvoutputa.GetCheck()==1){
+Flvparse.cpp (g:\work\flv_parse):					if(dlg->m_fflvoutputa.GetCheck()==1){
+Flvparse.cpp (g:\work\flv_parse):						dlg->ParseTagData_fb(9,temp_tag_f_b);
+Flvparse.cpp (g:\work\flv_parse):						if(dlg->m_fflvoutputv.GetCheck()==1){
+Flvparse.cpp (g:\work\flv_parse):						if(dlg->m_fflvoutputv.GetCheck()==1){
+Flvparse.cpp (g:\work\flv_parse):					if(dlg->m_fflvoutputv.GetCheck()==1){
+Flvparse.cpp (g:\work\flv_parse):					if(dlg->m_fflvoutputv.GetCheck()==1){
+Flvparse.cpp (g:\work\flv_parse):	dlg->text.LoadString(IDS_FINISH);
+Flvparse.cpp (g:\work\flv_parse):	AfxMessageBox(dlg->text);

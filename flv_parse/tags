@@ -1,0 +1,52 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CC	Makefile	/^CC = g++$/;"	m
+CUE_BLOCK_SIZE	flvparse.cpp	23;"	d	file:
+DataOffset	flvparse.cpp	/^	uint DataOffset;$/;"	m	struct:__anon1	file:
+DataSize	flvparse.cpp	/^	ui_24 DataSize;$/;"	m	struct:__anon2	file:
+FLAG_SEPARATE_AV	flvparse.cpp	24;"	d	file:
+FLV_HEADER	flvparse.cpp	/^} FLV_HEADER;$/;"	t	typeref:struct:__anon1	file:
+FLV_PREV_TAG_SIZE	flvparse.cpp	/^typedef uint FLV_PREV_TAG_SIZE;$/;"	t	file:
+FLV_TAG	flvparse.cpp	/^} FLV_TAG;$/;"	t	typeref:struct:__anon2	file:
+Flags	flvparse.cpp	/^	byte Flags;$/;"	m	struct:__anon1	file:
+MAX_URL_LENGTH	flvparse.h	4;"	d
+OBJS	Makefile	/^OBJS := $(SRC:%.cpp=%.o)$/;"	m
+Reserved	flvparse.cpp	/^	uint Reserved;$/;"	m	struct:__anon2	file:
+SRC	Makefile	/^SRC := $(wildcard *.cpp)$/;"	m
+Signature	flvparse.cpp	/^	byte Signature[3];$/;"	m	struct:__anon1	file:
+TAG_TYPE_AUDIO	flvparse.cpp	20;"	d	file:
+TAG_TYPE_SCRIPT	flvparse.cpp	22;"	d	file:
+TAG_TYPE_VIDEO	flvparse.cpp	21;"	d	file:
+TARGET	Makefile	/^TARGET := flvparse$/;"	m
+TagType	flvparse.cpp	/^	byte TagType;$/;"	m	struct:__anon2	file:
+Timestamp	flvparse.cpp	/^	ui_24 Timestamp;$/;"	m	struct:__anon2	file:
+Version	flvparse.cpp	/^	byte Version;$/;"	m	struct:__anon1	file:
+_MAX_PATH	flvparse.cpp	31;"	d	file:
+__FLVPARSE_H__	flvparse.h	2;"	d
+byte	flvparse.cpp	/^typedef unsigned char byte;$/;"	t	file:
+cmd_buf	flvparse.cpp	/^char cmd_buf[2000];$/;"	v
+copymem	flvparse.cpp	/^uint copymem(char *d, char *s, uint c) {$/;"	f
+current	flvparse.cpp	/^uint current=0;$/;"	v
+fget	flvparse.cpp	/^uint fget(FILE *fh, char *p, uint s) {$/;"	f
+fist_time_a	flvparse.cpp	/^int fist_time_a=0;$/;"	v
+fist_time_v	flvparse.cpp	/^int fist_time_v=0;$/;"	v
+flags	flvparse.cpp	/^uint flags = 0;$/;"	v
+flvparse	flvparse.cpp	/^int flvparse(int argc, char* argv[])$/;"	f
+fput	flvparse.cpp	/^uint fput(FILE *fh, char *p, uint s) {$/;"	f
+main	flvparse.cpp	/^int main(int argc, char* argv[])$/;"	f
+open_output_file	flvparse.cpp	/^FILE* open_output_file(byte tag) {$/;"	f
+process_audio_tag	flvparse.cpp	/^int process_audio_tag(unsigned char tag_header,char *response)$/;"	f
+process_metadata_tag	flvparse.cpp	/^int process_metadata_tag(char *metatag_buf,int temp_datasize,FILE *cfh)$/;"	f
+process_video_tag	flvparse.cpp	/^int process_video_tag(unsigned char tag_header,char *response)$/;"	f
+processfile	flvparse.cpp	/^void processfile(char *in_file, char *cue_file){$/;"	f
+project_name	flvparse.cpp	/^char project_name[_MAX_PATH];$/;"	v
+read_cue_file	flvparse.cpp	/^uint * read_cue_file(char *fn) {$/;"	f
+reverse_bytes	flvparse.cpp	/^uint reverse_bytes(byte *p, char c) {$/;"	f
+ui_24	flvparse.cpp	/^typedef unsigned char ui_24[3];$/;"	t	file:
+uint	flvparse.cpp	/^typedef unsigned int uint;$/;"	t	file:
+xfer	flvparse.cpp	/^uint xfer(FILE *ifh, FILE *ofh, uint c) {$/;"	f
+xfer_empty	flvparse.cpp	/^uint xfer_empty(FILE *ifh, FILE *ofh, uint c) {$/;"	f
